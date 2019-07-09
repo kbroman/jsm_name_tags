@@ -4,11 +4,11 @@
 [JSM](https://www.amstat.org/ASA/Meetings/Joint-Statistical-Meetings.aspx)
 name tag, like this:
 
-{::options parse_block_html="false" /}
-<div class="center">
 <blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Added my twitter handle to my <a href="https://twitter.com/hashtag/jsm2019?src=hash&amp;ref_src=twsrc%5Etfw">#jsm2019</a> badge. Also added a coffee stain. <a href="https://t.co/RYFWwUqLlt">pic.twitter.com/RYFWwUqLlt</a></p>&mdash; Karl Broman (@kwbroman) <a href="https://twitter.com/kwbroman/status/1148283878291005440?ref_src=twsrc%5Etfw">July 8, 2019</a></blockquote>
-<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-</div>
+
+[![twitter handle on JSM name tag](https://pbs.twimg.com/media/D--GGENXkAIIGmj.jpg)](https://t.co/RYFWwUqLlt)
+
+
 
 ### License
 
