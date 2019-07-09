@@ -1,8 +1,14 @@
 ## JSM name tags
 
-[MS Word file](jsm_name_tags.docx) for getting your twitter handle onto your
+For a number of years,
 [JSM](https://www.amstat.org/ASA/Meetings/Joint-Statistical-Meetings.aspx)
-name tag, like this:
+has been mailing out their conference name badges in advance on a full
+sheet of light card stock. You can feed that into your printer to
+print extra stuff onto your badge. (Be careful about orientation, and
+double-check alignment by printing a test page.)
+
+This repository contains a [MS Word file](jsm_name_tags.docx) example,
+as a starting point.
 
 <blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Added my twitter handle to my <a href="https://twitter.com/hashtag/jsm2019?src=hash&amp;ref_src=twsrc%5Etfw">#jsm2019</a> badge. Also added a coffee stain. <a href="https://t.co/RYFWwUqLlt">pic.twitter.com/RYFWwUqLlt</a></p>&mdash; Karl Broman (@kwbroman) <a href="https://twitter.com/kwbroman/status/1148283878291005440?ref_src=twsrc%5Etfw">July 8, 2019</a></blockquote>
 
